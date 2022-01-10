@@ -10,7 +10,7 @@
 
 - => I’m currently learning **CSS 3, HTML 5, JavaScript, TypeScript, React and Node.js**
 
-- => Fun fact [It's been six years now and people still think I'm gonna go hunt snakes when I say "I'm heading out, have some python to take care of tonight."](It's been six years now and people still think I'm gonna go hunt snakes when I say "I'm heading out, have some python to take care of tonight.")
+- => Fun fact "It's been six years now and people still think I'm gonna go hunt snakes when I say "I'm heading out, have some python to take care of tonight"
 
 - => Ask me about **anything really ^^**
 
