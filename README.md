@@ -1,2 +1,2 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nittts)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=nittts)
+![](https://komarev.com/ghpvc/?username=nittts&red)
