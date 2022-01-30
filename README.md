@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/3oEduNrwcvr4VFlFxm/giphy.gif?cid=790b761112161b8d04904a48b24bb68d848c5eb4342fcf28&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" align="left" height="" width="1000" />  
 </div>  
   
-
+</br>
 
 
 ### Heyo 👋, I'm Nitro! AKA Nitts or William ^^
@@ -23,9 +23,6 @@
   
 
 - How to reach me baierlewilliam@gmail.com{Personal Email}  
-  
-
-<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" align="left" height="" width="1000" />  
   
 <br>
 
