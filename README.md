@@ -11,7 +11,7 @@ ___
 ### <div align="center">A FrontEnd Development Student from South Brazil</div>  
   
 
--  I’m currently working on [Haiyhu](https://github.com/nittts/Hayhu)  
+-  I’m currently working on [Hayhu](https://github.com/nittts/Hayhu)  
   
 
 - I’m currently Studying at Kenzie Academy, FrontEnd development Course;  
