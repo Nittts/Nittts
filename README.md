@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media1.giphy.com/media/3oEduNrwcvr4VFlFxm/giphy.gif?cid=790b761112161b8d04904a48b24bb68d848c5eb4342fcf28&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 
@@ -25,16 +25,13 @@
 - How to reach me baierlewilliam@gmail.com{Personal Email}  
   
 
-<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" align="left" height="" width="550" />  
+<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" align="left" height="" width="1000" />  
   
+<br>
 
-<br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Skills  
 <div align="center">  
@@ -47,16 +44,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -82,13 +69,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nittts&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nittts&theme=monokai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -107,7 +88,7 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
