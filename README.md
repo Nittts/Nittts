@@ -45,6 +45,11 @@ ___
 
 <br/>  
 
+###
+
+<img href="https://raw.githubusercontent.com/nitts/nitts/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Connect with me  
 <div align="center">
