@@ -9,20 +9,9 @@ ___
 ### Heyo 👋, I'm Nitro! AKA Nittts or William ^^
   
 ### <div align="center">A FrontEnd Development Student from South Brazil</div>  
-  
-
--  I’m currently working on [my Personal Portfolio](https://nittts.github.io/Personal-Portifolio/)  
-  
-
-- I’m currently Studying at Kenzie Academy, FrontEnd development Course;  
-  
-
-- Ask me about HTML,Javascript,CSS,Python and SQL;  
-  
 
 - Fun fact: People still think I'm gonna smash a bug when I say "Imma go fix a 'bug' "  
   
-
 - How to reach me baierlewilliam@gmail.com{Personal Email}  
   
 <br>
