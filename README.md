@@ -68,10 +68,6 @@ ___
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nittts&theme=monokai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31e3zlnbaooqctsl4t7cf4tuolnu&cover_image=true&theme=default&bar_color=4d2323&bar_color_cover=false" /></div>  
