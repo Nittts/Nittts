@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://data.whicdn.com/images/271624292/original.gif" align="left" height="" width="1000" />  
+<img src="https://data.whicdn.com/images/271624292/original.gif" align="left" height="" width="100%" />  
 </div>
   
 ㅤ
