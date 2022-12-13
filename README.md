@@ -6,7 +6,7 @@
 ___
 
 
-### Heyo 👋, I'm Nitro! AKA Nittts or William ^^
+### Heyo 👋, I'm Nitro! AKA William ^^
   
 ### <div align="center">A FrontEnd Development Student from South Brazil</div>  
 
