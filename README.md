@@ -9,7 +9,7 @@ ___
 
 ### Heyo 👋, I'm Nitro! AKA William ^^
   
-### <div align="center">A FrontEnd Development Student from South Brazil</div>  
+### <div align="center">A FullStack Developer from South Brazil</div>  
 
 - Fun fact: People still think I'm gonna smash a bug when I say "Imma go fix a 'bug' "  
   
